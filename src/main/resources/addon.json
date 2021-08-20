@@ -1,0 +1,9 @@
+{
+  "uuid": "%uuid%",
+  "name": "DurabilityWarning",
+  "mainClass": "dev.janheist.DurabilityWarning",
+  "description": "Warnt, wenn ein Item eine zu geringe Haltbarkeit bekommt",
+  "version": 1,
+  "author": "Mexykaner aka. Jan Heist",
+  "category": 1
+}
